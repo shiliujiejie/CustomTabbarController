@@ -6,7 +6,7 @@
 
 ## | ScreenRecording  |
 
-![Recordings](https://github.com/shiliujiejie/RootTabBarController/blob/master/rootTabbargif.gif)  | 
+![Recordings](https://github.com/shiliujiejie/RootTabBarController/blob/master/CustomrootTab.gif)  | 
 
 
 ## | USE  |
