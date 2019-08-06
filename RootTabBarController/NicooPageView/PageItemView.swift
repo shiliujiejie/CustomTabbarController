@@ -75,7 +75,7 @@ class PageItemView: UIView {
     
     func clickItem(_ index: Int) {
         currentIndex = index
-        collectionView.reloadItems(at: [IndexPath.init(item: index, section: 0)])
+        collectionView.reloadData()
         collectionView.scrollToItem(at: IndexPath.init(item: index, section: 0), at: .centeredHorizontally, animated: true)
         itemClickHandler?(currentIndex)
     }
